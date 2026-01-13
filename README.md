@@ -39,6 +39,8 @@ This demonstrates how neural networks can learn mathematical reasoning through p
 └── README.md                            # This file
 ```
 
+*Note: The original files use "Arithematic" spelling - this is preserved in filenames.*
+
 ## Dataset
 
 The project uses custom-generated datasets for training and evaluation:
@@ -176,6 +178,8 @@ This project was created as part of **INLP Assignment 5**, exploring how Transfo
 - **iNLP_Arithematic_Transformer.ipynb**: Interactive Jupyter notebook with complete implementation, visualizations, and experiments
 - **inlp_arithematic_transformer.py**: Python script version auto-generated from the notebook
 - **INLP_Assignment_5.pdf**: Detailed assignment documentation and requirements
+
+*Note: File names use "Arithematic" spelling as per the original project naming.*
 
 ## Getting Started
 
